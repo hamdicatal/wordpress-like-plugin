@@ -8,7 +8,7 @@
 * License: GPLv2 or later
 * License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Eklenti, sitenize Wordpress tabanlı beğeni sistemi eklemenize olanak tanır.
+Eklenti, sitenize Wordpress tabanlı beğeni sistemi eklemenize olanak sağlar.
 
 ### == Açıklama ==
 
@@ -29,7 +29,7 @@ Eklenti, sitenize Wordpress tabanlı beğeni sistemi eklemenize olanak tanır.
 
 * Bileşen: Eklenti kurulumu yapıldıktan sonra "Popüler Yazılar" bileşenini direk olarak "Bileşenler" sayfasından temanızın ilgili bölümlerine yerleştirebilirsiniz.
 
-* Etiket Listeleme: '[liketagliste]' kodunu sayfalarınızın içerik kısmına eklediğinizde etiketler otomatik olarak tablo halinde listelenecektir.
+* Etiket Listeleme: '[liketagliste]' kodunu sayfalarınızın içerik kısmına eklediğinizde etiketler beğeni miktarlarıyla beraber otomatik olarak tablo halinde listelenecektir.
 
 ### == Changelog ==
 
