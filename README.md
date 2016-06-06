@@ -10,8 +10,6 @@
 
 Eklenti, sitenize Wordpress tabanlı beğeni sistemi eklemenize olanak sağlar.
 
-Git...
-
 ### == Açıklama ==
 
 * Wordpress Tabanlı Beğeni: Yazılarınızdaki beğeni butonu ile kullanıcılar yazılarınızı beğenebilir, beğenmekten vazgeçebilir. Ayrıca cookie kontrolü sayesinde aynı kullanıcı yazılarınızı aynı tarayıcıdan tekrar tekrar beğenemeyecektir.
